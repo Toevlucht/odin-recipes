@@ -1,0 +1,32 @@
+* {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+h4 {
+    background-color: blueviolet;
+    font-size: 24px;
+    color: rgb(rgb(194, 62, 62), rgb(29, 187, 29), rgb(24, 24, 204))
+}
+
+.header {
+    text-align: center;
+    background-color: aqua;
+    font-size: 40px;
+}
+
+.header.sub {
+    color: rgb(51, 114, 93);
+    background-color: rgb(209, 201, 201);
+    }
+
+#list {
+    color: red;
+    text-align: left;
+    font-size: 12px;
+    background-color: yellow;
+}
+
+.image {
+    height: auto;
+    width: 600px;
+}
